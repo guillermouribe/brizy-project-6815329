@@ -1,0 +1,1 @@
+self.importScripts('https://cdn.imghaste.com/gracious-nightingale-e9c705.netlify.app/service-worker.js');
